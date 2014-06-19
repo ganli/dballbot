@@ -3,7 +3,7 @@ dballbot
 
 Dragon Ball Robot For App Engine
 
-访问 [dballbot.appspot.com](http://dballbot.appspot.com/) 获得预览
+访问 [dballbot.appspot.com](http://dballbot.appspot.com/) ([国内链接](http://dballbot.appsp0t.com/)) 获得预览
 
 支持Android，IOS版龙珠Q传，妖精尾巴各版本
 
@@ -16,7 +16,7 @@ Dragon Ball Robot For App Engine
 1. 模拟客户端任意操作，单机脚本和服务器可共享session同时运行
 2. 24小时副本，掠夺，抢碎片，购买乌龙，升级人物装备，布尔玛，定时吃面，收建筑，龟屋，活动抽免费武者
 3. 多线程打Boss抢最后一击
-4. 智能试炼，预估对方阵容，参考[Rush Team](http://dballbot.appspot.com/rush)
+4. 智能试炼，预估对方阵容，参考[Rush Team](http://dballbot.appspot.com/rush) （[国内链接](http://dballbot.appsp0t.com/rush)）
 5. 抢活动卡
 6. 小号给公会刷钱
 7. 多帐号配合无等级、宿敌限制掠夺
