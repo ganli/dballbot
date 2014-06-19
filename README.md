@@ -36,21 +36,21 @@ A：
 
 外挂的原理是模拟客户端给服务器发消息，例如，下面是掠夺发给服务器的消息：
 
-<code><pre>
-POST /dragon/grab/fight HTTP/1.1
-Host: 203.195.191.62
-Accept: */*
-Accept-Encoding: gzip
-Content-Length: 169
-Content-Type: application/x-www-form-urlencoded
 
-sig=f36f0f53b2ac64fdcd5e4b818289ece0
-sessionKey=102411344-7dbefbc9-402a-42a0-bbd2-4ea8f24b0710
-enemyId=102407576
-version=1.1.0
-channel=00000003
-time=1393050884310.000000
-</pre></code>
+  POST /dragon/grab/fight HTTP/1.1
+  Host: 203.195.191.62
+  Accept: */*
+  Accept-Encoding: gzip
+  Content-Length: 169
+  Content-Type: application/x-www-form-urlencoded
+  
+  sig=f36f0f53b2ac64fdcd5e4b818289ece0
+  sessionKey=102411344-7dbefbc9-402a-42a0-bbd2-4ea8f24b0710
+  enemyId=102407576
+  version=1.1.0
+  channel=00000003
+  time=1393050884310.000000
+
 
 外挂发的和客户端发的一模一样，GM根本无法区分。所以除非利用了系统漏洞刷东西，或者太高调惹了大R，不会有封号的危险。
 
