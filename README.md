@@ -25,7 +25,7 @@ Dragon Ball Robot For App Engine
 
 另有修改版客户端，可跳过登录，使用任意帐号进入游戏。
 
-私服服务器策划中，欢迎有志之士联系参与。
+私服服务器策划中，欢迎有志之士联系参与。 EMail：ganli.leo AT gmail.com
 
 Q&A
 -----------
